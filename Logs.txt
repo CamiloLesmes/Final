@@ -1,0 +1,52 @@
+27.9s 1 [1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 217ms/step
+[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 219ms/step
+28.4s 2 judge
+32.5s 3 [1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 104ms/step
+[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 105ms/step
+33.0s 4 heavy
+39.5s 5 [1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 98ms/step
+[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 99ms/step
+40.3s 6 phantom
+43.1s 7 [1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 97ms/step
+[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 98ms/step
+43.7s 8 heavy
+49.4s 9 [1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 100ms/step
+[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 101ms/step
+49.8s 10 vandal
+52.9s 11 [1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 99ms/step
+[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 101ms/step
+53.3s 12 heavy
+59.2s 13 [1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 100ms/step
+[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 101ms/step
+59.7s 14 ghost
+62.7s 15 [1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 97ms/step
+[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 98ms/step
+63.1s 16 none
+68.9s 17 [1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 98ms/step
+[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 100ms/step
+69.4s 18 vandal
+72.3s 19 [1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 97ms/step
+[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 99ms/step
+72.6s 20 light
+72.6s 21 u_credits  t1_credits  t2_credits  t3_credits  t4_credits shield      gun
+72.6s 22 0       4100        1400        4250        5800        4600  heavy    judge
+72.6s 23 1       4100        4100        5050        5250           0  heavy  phantom
+72.6s 24 2       3400        4300           0        3150        3800  heavy   vandal
+72.6s 25 3        800           0          50         800         800   none    ghost
+72.6s 26 4       4050        6550        5400        1300        3950  light   vandal
+72.6s 27 Data processing complete, and CSV file is saved.
+76.6s 28 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+77.2s 29 [NbConvertApp] Writing 482561 bytes to __notebook__.ipynb
+79.1s 30 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+80.3s 31 [NbConvertApp] Support files will be in __results___files/
+80.3s 32 [NbConvertApp] Making directory __results___files
+80.3s 33 [NbConvertApp] Making directory __results___files
+80.3s 34 [NbConvertApp] Making directory __results___files
+80.3s 35 [NbConvertApp] Making directory __results___files
+80.3s 36 [NbConvertApp] Making directory __results___files
+80.3s 37 [NbConvertApp] Making directory __results___files
+80.3s 38 [NbConvertApp] Making directory __results___files
+80.3s 39 [NbConvertApp] Making directory __results___files
+80.3s 40 [NbConvertApp] Making directory __results___files
+80.3s 41 [NbConvertApp] Making directory __results___files
+80.3s 42 [NbConvertApp] Writing 313274 bytes to __results__.html
